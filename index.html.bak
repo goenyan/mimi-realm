@@ -68,7 +68,6 @@
             <div>
                 <a href="about.html">About This Guide</a>
                 <a href="https://mimiakane.com/" target="_blank">Main Website</a>
-				<a href="https://giwish.mimiakane.com/" target="_blank">Genshin Impact Wish Simulator</a>
             </div>
         </header>
         <main id="main-container" class="flex">
